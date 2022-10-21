@@ -15,10 +15,10 @@
 ⚡ Fun fact I think i have a addicted to web development
 
 Connect with me:
-jay sanghani jay_sanghani_06 https://auth.geeksforgeeks.org/user/jaysanghanii/profile
+
 
 Languages and Tools:
-bootstrap c css3 html5 java javascript mssql mysql php react
+bootstrap c css3 html5 java javascript mssql mysql  react
 
 <!---
 shreyanspatel19/shreyanspatel19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
