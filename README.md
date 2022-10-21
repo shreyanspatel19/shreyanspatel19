@@ -3,10 +3,16 @@
     my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care 
      in the experience, architecture, and code quality of the things I build.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👀 I’m currently working on Bookinfotech as Junior Java Devloper
+
+👨‍💻 React Project is www.dharatiengineering.in
+                    www.thehappyhomedecor.com
+
+💬 Ask me about Web Development Issue
+
+📫 How to reach me shreyanspadmani196@gmail.com
+
+⚡ Fun fact I think i have a addicted to web development
 
 <!---
 shreyanspatel19/shreyanspatel19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
